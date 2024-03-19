@@ -23,7 +23,4 @@ int main() {
     root2 = (-b - std::sqrt((pow(b,  2)) - (4 * (a * c)))) / (2 * a);
 
     std::cout << "Root 1: " << root1 << "\nRoot 2: " << root2;
-
-
-
 }
